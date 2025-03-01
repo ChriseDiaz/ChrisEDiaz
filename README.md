@@ -12,6 +12,7 @@
 
 <h2>🤳Connect with me:</h2>
 
+
 [<img align="left" alt="Chris | LinkedIn" width="22px" src="http://www.linkedin.com/in/christopher-diaz-28a503247" />][linkedin]
 
 
