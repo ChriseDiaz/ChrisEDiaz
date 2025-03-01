@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: http://www.linkedin.com/in/christopher-diaz-28a503247
+[linkedin]: http://www.linkedin.com/in/chris
