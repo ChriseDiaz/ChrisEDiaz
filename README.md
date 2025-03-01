@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christopher Diaz, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Christopher Diaz, an <a href="http://www.linkedin.com/in/christopher-diaz-28a503247">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
