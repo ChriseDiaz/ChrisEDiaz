@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/ChriseDiaz/post-install-config/tree/main)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ChriseDiaz/ticket-lifecycle/tree/main)
 - <b>Microsoft Azure</b>
-  - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/ChriseDiaz/ticket-lifecycle/tree/main)
+  - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/ChriseDiaz/Preparing-AD-Infrastructure-in-Azure/tree/main)
   - [Active Directory: Deploying Active Directory Part 1](https://github.com/ChriseDiaz/ticket-lifecycle/tree/main)
   - [Active Directory: Deploying Active Directory Part 2](https://github.com/ChriseDiaz/ticket-lifecycle/tree/main)
   - [Active Directory: Enabling and Unlocking Accounts and Restting Passwords](https://github.com/joshmadakorcc/configure-ad)
