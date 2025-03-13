@@ -10,7 +10,7 @@
   - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/ChriseDiaz/ticket-lifecycle/tree/main)
   - [Active Directory: Deploying Active Directory Part 1](https://github.com/ChriseDiaz/ticket-lifecycle/tree/main)
   - [Active Directory: Deploying Active Directory Part 2](https://github.com/ChriseDiaz/ticket-lifecycle/tree/main)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Active Directory: Enabling and Unlocking Accounts and Restting Passwords](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
