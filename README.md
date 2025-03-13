@@ -11,7 +11,7 @@
   - [Active Directory: Deploying Active Directory Part 1](https://github.com/ChriseDiaz/Deploying-Active-Directory-Part-1)
   - [Active Directory: Deploying Active Directory Part 2](https://github.com/ChriseDiaz/Deploying-Active-Directory-Part-2)
   - [Active Directory: Enabling and Unlocking Accounts and Resetting Passwords](https://github.com/ChriseDiaz/Enabling-and-Unlocking-Accounts-and-Resetting-Passwords)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ChriseDiaz/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 <h2>🤳Connect with me:</h2>
 
